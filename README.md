@@ -58,3 +58,4 @@ By [@YasushikoX](https://github.com/YasushikoX)
 
 - Use Advantage Scope to see position
 - Chief Delphi is your helper
+- Check Odometry Rate and make sure its 250hz for less drift
