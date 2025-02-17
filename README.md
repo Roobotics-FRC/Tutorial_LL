@@ -1,5 +1,5 @@
 ## Intro
-This is a guide on how to add visual measurments in to your Phoenix Tunner X generated project.
+This is a guide on how to add visual measurements in to your Phoenix Tunner X generated project.
 
 By [@YasushikoX](https://github.com/YasushikoX)
 
@@ -54,3 +54,7 @@ By [@YasushikoX](https://github.com/YasushikoX)
          e.printStackTrace();
      }
      ```
+## Tips
+
+- Use Advantage Scope to see position
+- Chief Delphi is your helper
