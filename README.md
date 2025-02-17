@@ -1,6 +1,7 @@
 ## Intro
 This is a guide on how to add visual measurments in to your Phoenix Tunner X generated project.
-By Yasushiko(Jake)
+
+By [@YasushikoX](https://github.com/YasushikoX)
 
 ## Links to Read
 **YouTube Guide:**
